@@ -1,4 +1,4 @@
-# HORIZOP Energy's EV Charging Station Prototype 1 PCB Design in KiCad
+# HORIZOP Energy's EV Charging Station Prototype 1 PCB Design in KiCad and Solidworks
 
 KiCad design files of a controller board for Type-2 charging (IEC 61851) of EVs.
 
