@@ -3,6 +3,6 @@
 *.xml
 *.bak
 
-KiCad/.DS_Store
-KiCad/.idea/
+KiCad_Files/.DS_Store
+KiCad_Files/.idea/
 

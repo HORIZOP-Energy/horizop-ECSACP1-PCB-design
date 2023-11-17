@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "282856-8")(type "KiCad")(uri "C:/Users/ahmed/Downloads/ECS-Prototype KiCAD/282856-8/282856-8.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-PrototypeSymbols")(type "Legacy")(uri "${KIPRJMOD}/ECS-PrototypeSymbols.lib")(options "")(descr ""))
+  (lib (name "HLK-5M05")(type "KiCad")(uri "C:/Users/ahmed/Downloads/ECS-Prototype KiCAD/HLK-5M05/HLK-5M05.kicad_sym")(options "")(descr ""))
+  (lib (name "NonFoundThingsSymbols")(type "KiCad")(uri "${KIPRJMOD}/NonFoundThingsSymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ1-3515N")(type "KiCad")(uri "C:/Users/ahmed/Downloads/ECS-Prototype KiCAD/V2_1mm/ECS-Prototype KiCAD/SJ1-3515N/SJ1-3515N.kicad_sym")(options "")(descr ""))
+)
